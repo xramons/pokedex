@@ -1,0 +1,2 @@
+# pokedex
+practica frontend launchx
